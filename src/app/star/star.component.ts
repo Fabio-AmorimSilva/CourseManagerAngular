@@ -3,7 +3,7 @@ import { Component, Input, OnChanges, SimpleChanges } from '@angular/core';
 @Component({
   selector: 'app-star',
   templateUrl: 'star.component.html',
-  styleUrls: 'star.'
+  styleUrls: ['./star.component.css']
 
 })
 
